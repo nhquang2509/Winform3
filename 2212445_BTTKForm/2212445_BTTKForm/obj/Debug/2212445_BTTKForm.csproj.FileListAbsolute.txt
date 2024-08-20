@@ -1,0 +1,14 @@
+Z:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.csproj.AssemblyReference.cache
+D:\2212445_BTTKForm\2212445_BTTKForm\bin\Debug\2212445_BTTKForm.exe.config
+D:\2212445_BTTKForm\2212445_BTTKForm\bin\Debug\2212445_BTTKForm.exe
+D:\2212445_BTTKForm\2212445_BTTKForm\bin\Debug\2212445_BTTKForm.pdb
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.csproj.AssemblyReference.cache
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\_2212445_BTTKForm.frmBai1.resources
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\_2212445_BTTKForm.frmChinh.resources
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\_2212445_BTTKForm.Properties.Resources.resources
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.csproj.GenerateResource.cache
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.csproj.CoreCompileInputs.cache
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.exe
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\2212445_BTTKForm.pdb
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\_2212445_BTTKForm.frmBai2.resources
+D:\2212445_BTTKForm\2212445_BTTKForm\obj\Debug\_2212445_BTTKForm.frmBai3.resources

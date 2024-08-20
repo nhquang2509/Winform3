@@ -1,0 +1,10 @@
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\2212445_BaiThucHanhB3.csproj.AssemblyReference.cache
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\_2212445_BaiThucHanhB3.MainForm.resources
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\_2212445_BaiThucHanhB3.Properties.Resources.resources
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\2212445_BaiThucHanhB3.csproj.GenerateResource.cache
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\2212445_BaiThucHanhB3.csproj.CoreCompileInputs.cache
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\bin\Debug\2212445_BaiThucHanhB3.exe.config
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\bin\Debug\2212445_BaiThucHanhB3.exe
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\bin\Debug\2212445_BaiThucHanhB3.pdb
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\2212445_BaiThucHanhB3.exe
+Z:\2212445_BaiThucHanhB3\2212445_BaiThucHanhB3\obj\Debug\2212445_BaiThucHanhB3.pdb
